@@ -1,6 +1,6 @@
 #!/bin/sh
 
-pat=/home/jarvis/xplanet/img/
+pat=/var/www/html/station/xplanet/img/
 tmp=$pat"tmp_clouds_2048.jpg"
 img=$pat"clouds_2048.jpg"
 

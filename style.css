@@ -65,7 +65,7 @@ div.horloge_heure
 
 div.horloge_date
 {
-  font-size         : 15px;
+  font-size         : 20px;
   background-color  : rgba(0, 0, 0, 1);
 }
 
@@ -79,9 +79,10 @@ span.horloge_grey
 
 div#meteo
 {
-  left              : 251px;
-  top               : 111px;
+  left              : 409px;
+  top               : 155px;
   position          : absolute;
+  background-color: red;
   overflow          : hidden;
   background-color  : rgba(0, 0, 0, 1);
   color             : #FFF;
@@ -91,7 +92,8 @@ div#meteo
 
 div#meteo_black
 {
-  left              : 251px;
+  left              : 409px;
+  background-color: red;
   top               : 111px;
   width             : 228px;
   height            : 62px;

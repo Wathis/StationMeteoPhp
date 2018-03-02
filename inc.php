@@ -13,7 +13,7 @@
 
   function meteo () {
 
-    $meteo  = '<div id="cont_MTQxMTh8M3w0fDR8M3xGRkZGRkZ8OXxGRkZGRkZ8Y3wx"><div id="spa_MTQxMTh8M3w0fDR8M3xGRkZGRkZ8OXxGRkZGRkZ8Y3wx"><a id="a_MTQxMTh8M3w0fDR8M3xGRkZGRkZ8OXxGRkZGRkZ8Y3wx" href="http://www.meteocity.com/france/caen_v14118/" target="_blank" style="color:#333;text-decoration:none;">Météo Caen</a> ©<a href="http://www.meteocity.com">meteocity.com</a></div><script type="text/javascript" src="http://widget.meteocity.com/js/MTQxMTh8M3w0fDR8M3xGRkZGRkZ8OXxGRkZGRkZ8Y3wx"></script></div>';
+    $meteo  = '<div id="cont_Q0FFTnwyfDV8NHw0fDAwMDAwMHwxfEZGRkZGRnxjfDE-"><div id="spa_Q0FFTnwyfDV8NHw0fDAwMDAwMHwxfEZGRkZGRnxjfDE-"><a id="a_Q0FFTnwyfDV8NHw0fDAwMDAwMHwxfEZGRkZGRnxjfDE-" href="http://www.meteocity.com/france/paris_v75056/" target="_blank" style="color:#333;text-decoration:none;">Météo Paris</a> ©<a href="http://www.meteocity.com">meteocity.com</a></div><script type="text/javascript" src="http://widget.meteocity.com/js/Q0FFTnwyfDV8NHw0fDAwMDAwMHwxfEZGRkZGRnxjfDE-"></script></div>';
 
     return $meteo;
   }
