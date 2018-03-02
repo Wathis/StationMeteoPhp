@@ -25,23 +25,19 @@ div, table, tr, td, th, h1, h2, h3, a, span, p, pre, fieldset, input, textarea, 
 
 div#main
 {
-  /*width             : 1366px;
-  height            : 768px;*/
-  /*position          : relative;*/
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap ;
-  /*overflow          : hidden;*/
-  /*background-color  : rgba(0, 0, 0, 1);*/
-  background-color: purple;
+  width             : 420px;
+  height            : 340px;
+  position          : relative;
+  overflow          : hidden;
+  background-color  : rgba(0, 0, 0, 1);
   color             : #FFF;
 }
 
 div#etalon
 {
- /* top               : 0px;
-  position          : absolute;*/
-  /*overflow          : hidden;*/
+  top               : 0px;
+  position          : absolute;
+  overflow          : hidden;
   background-color  : rgba(0, 0, 255, 0.3);
   color             : #FFF;
   font-size         : 50px;
@@ -51,11 +47,11 @@ div#etalon
 
 div#horloge
 {
-  /*right             : 100px;
+  right             : 0px;
   top               : 0px;
-  position          : absolute;*/
-  /*overflow          : hidden;*/
-  background-color  : red;
+  position          : absolute;
+  overflow          : hidden;
+  background-color  : rgba(0, 0, 0, 1);
   color             : #FFF;
   font-weight       : bold;
   text-align        : center;
@@ -63,14 +59,14 @@ div#horloge
 
 div.horloge_heure
 {
-  font-size         : 8em;
-  /*background-color  : rgba(0, 0, 0, 1);*/
+  font-size         : 180px;
+  background-color  : rgba(0, 0, 0, 1);
 }
 
 div.horloge_date
 {
-  font-size         : 4em;
-  /*background-color  : rgba(0, 0, 0, 1);*/
+  font-size         : 50px;
+  background-color  : rgba(0, 0, 0, 1);
 }
 
 span.horloge_grey
@@ -83,12 +79,11 @@ span.horloge_grey
 
 div#meteo
 {
- /* right             : 0px;
+  right             : 0px;
   top               : 300px;
-  position          : absolute;*/
-  /*overflow          : hidden;*/
-  /*background-color  : rgba(0, 0, 0, 1);*/
-  background-color: blue;
+  position          : absolute;
+  overflow          : hidden;
+  background-color  : rgba(0, 0, 0, 1);
   color             : #FFF;
   font-weight       : bold;
   text-align        : center;
@@ -96,11 +91,11 @@ div#meteo
 
 div#meteo_black
 {
-  /*right             : 0px;
+  right             : 0px;
   top               : 420px;
   width             : 600px;
   height            : 100px;
-  position          : absolute;*/
+  position          : absolute;
   z-index           : 9999;
   background-color  : rgba(0, 0, 0, 1);
 }
@@ -109,11 +104,11 @@ div#meteo_black
 
 div#ts3
 {
-  /*left              : 340px;
+  left              : 340px;
   bottom            : 10px;
-  position          : absolute;*/
-  /*overflow          : hidden;*/
-  /*background-color  : rgba(0, 0, 0, 1);*/
+  position          : absolute;
+  overflow          : hidden;
+  background-color  : rgba(0, 0, 0, 1);
   color             : #FFF;
   font-weight       : bold;
   text-align        : center;
@@ -130,11 +125,11 @@ td.ts3_user
 
 div#ping
 {
-/*  left              : 0px;
+  left              : 0px;
   bottom            : 0px;
   position          : absolute;
-  overflow          : hidden;*/
-  /*background-color  : rgba(0, 0, 0, 1);*/
+  overflow          : hidden;
+  background-color  : rgba(0, 0, 0, 1);
 }
 
 td.ping
@@ -161,10 +156,10 @@ td.ping_down
 
 div#vpn
 {
- /* left              : 550px;
+  left              : 550px;
   bottom            : 10px;
   position          : absolute;
-  overflow          : hidden;*/
+  overflow          : hidden;
   background-color  : rgba(0, 0, 0, 1);
   color : #FFF;
 }
@@ -186,47 +181,45 @@ img.vpn
 
 div#earth
 {
-  /*width             : 250px;
-  height            : 250px;
+  width             : 500px;
+  height            : 500px;
   left              : 0px;
   top               : 0px;
   position          : absolute;
-  overflow          : hidden;*/
-  /*background-color  : rgba(0, 0, 0, 1);*/
-  background-color: orange;
+  overflow          : hidden;
+  background-color  : rgba(0, 0, 0, 1);
 }
 
 /* moon */
 
 div#moon
 {
-  /*width             : 125px;
-  height            : 125px;
-  left              : 300px;
+  width             : 250px;
+  height            : 250px;
+  left              : 500px;
   top               : 0px;
   position          : absolute;
-  overflow          : hidden;*/
-  /*background-color  : rgba(0, 0, 0, 1);*/
-  background-color: green;
+  overflow          : hidden;
+  background-color  : rgba(0, 0, 0, 1);
 }
 
 /* ifstat */
 
 div#ifstat_oberon_up
 {
- /* right             : 20px;
+  right             : 20px;
   bottom            : 20px;
   position          : absolute;
-  overflow          : hidden;*/
+  overflow          : hidden;
   background-color  : rgba(0, 0, 0, 1);
 }
 
 div#ifstat_oberon_down
 {
-/*  right             : 340px;
+  right             : 340px;
   bottom            : 20px;
   position          : absolute;
-  overflow          : hidden;*/
+  overflow          : hidden;
   background-color  : rgba(0, 0, 0, 1);
 }
 
@@ -234,10 +227,10 @@ div#ifstat_oberon_down
 
 div#analytics
 {
-/*  right             : 0px;
+  right             : 0px;
   bottom            : 130px;
   position          : absolute;
-  overflow          : hidden;*/
+  overflow          : hidden;
   z-index           : 99999;
   background-color  : rgba(0, 0, 0, 1);
   border            : solid 0px #F00;
