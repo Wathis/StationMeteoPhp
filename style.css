@@ -47,7 +47,7 @@ div#etalon
 
 div#horloge
 {
-  right             : 0px;
+  left              : 251px;
   top               : 0px;
   position          : absolute;
   overflow          : hidden;
@@ -59,13 +59,13 @@ div#horloge
 
 div.horloge_heure
 {
-  font-size         : 100px;
+  font-size         : 70px;
   background-color  : rgba(0, 0, 0, 1);
 }
 
 div.horloge_date
 {
-  font-size         : 30px;
+  font-size         : 15px;
   background-color  : rgba(0, 0, 0, 1);
 }
 
@@ -79,8 +79,8 @@ span.horloge_grey
 
 div#meteo
 {
-  right             : 0px;
-  top               : 300px;
+  left              : 251px;
+  top               : 111px;
   position          : absolute;
   overflow          : hidden;
   background-color  : rgba(0, 0, 0, 1);
@@ -91,7 +91,7 @@ div#meteo
 
 div#meteo_black
 {
-  right             : 0px;
+  left              : 251px;
   top               : 111px;
   width             : 228px;
   height            : 62px;
