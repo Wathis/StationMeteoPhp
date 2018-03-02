@@ -1,6 +1,6 @@
 #!/bin/sh
 
-pat=/var/www/html/station/xplanet/img/
+pat=/Users/mathisdelaunay/Documents/D.U.T./2èmeAnnée/Semestre4/SystemeEmbarqués/PiHomeDashScreen/xplanet
 tmp=$pat"tmp_clouds_2048.jpg"
 img=$pat"clouds_2048.jpg"
 
