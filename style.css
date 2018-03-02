@@ -25,8 +25,8 @@ div, table, tr, td, th, h1, h2, h3, a, span, p, pre, fieldset, input, textarea, 
 
 div#main
 {
-  width             : 420px;
-  height            : 340px;
+  width             : 480px;
+  height            : 320px;
   position          : relative;
   overflow          : hidden;
   background-color  : rgba(0, 0, 0, 1);
@@ -59,13 +59,13 @@ div#horloge
 
 div.horloge_heure
 {
-  font-size         : 180px;
+  font-size         : 100px;
   background-color  : rgba(0, 0, 0, 1);
 }
 
 div.horloge_date
 {
-  font-size         : 50px;
+  font-size         : 30px;
   background-color  : rgba(0, 0, 0, 1);
 }
 
@@ -92,9 +92,9 @@ div#meteo
 div#meteo_black
 {
   right             : 0px;
-  top               : 420px;
-  width             : 600px;
-  height            : 100px;
+  top               : 111px;
+  width             : 228px;
+  height            : 62px;
   position          : absolute;
   z-index           : 9999;
   background-color  : rgba(0, 0, 0, 1);
@@ -181,8 +181,8 @@ img.vpn
 
 div#earth
 {
-  width             : 500px;
-  height            : 500px;
+  width             : 147px;
+  height            : 147px;
   left              : 0px;
   top               : 0px;
   position          : absolute;
@@ -194,9 +194,9 @@ div#earth
 
 div#moon
 {
-  width             : 250px;
-  height            : 250px;
-  left              : 500px;
+  width             : 104px;
+  height            : 104px;
+  left              : 147px;
   top               : 0px;
   position          : absolute;
   overflow          : hidden;
