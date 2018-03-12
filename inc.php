@@ -61,8 +61,8 @@
   function ping () {
     $hosts    = array();
     $hosts_ip = array(
-                    'Proxy'    => array('192.168.1.2', '17'),
-                    'RX 33'    => array('192.168.4.33', '0')
+                    'Proxy'    => array('192.168.1.2', '80'),
+                    'RX 33'    => array('127.0.0.1', '80')
                   );
 
     foreach($hosts_ip as $hostname => $host_data){
