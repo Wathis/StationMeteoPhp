@@ -1,4 +1,4 @@
-/* init */
+/*/* init */
 
 body
 {
@@ -33,6 +33,8 @@ div#main
   color             : #FFF;
 }
 
+
+
 div#etalon
 {
   top               : 0px;
@@ -43,6 +45,14 @@ div#etalon
   font-size         : 50px;
 }
 
+#coindesk-widget {
+  top               : 200px;
+  left              : 230px;
+  width             : 172px;
+  height            : 108px;
+  position          : absolute;
+  overflow          : hidden;
+}
 /* horloge */
 
 div#horloge
@@ -102,6 +112,14 @@ div#meteo_black
   background-color  : rgba(0, 0, 0, 1);
 }
 
+.deezer-widget-player {
+  left              : 20px;
+  bottom            : 12px;
+  height            : 150px;
+  position          : absolute;
+  overflow          : hidden;
+}
+
 /* ts3 */
 
 div#ts3
@@ -125,10 +143,29 @@ td.ts3_user
 
 /* ping */
 
-div#ping
-{
+div#widget-deezer {
+
+ left              : 230px;
+  bottom            : 140px;
+  position          : absolute;
+  overflow          : hidden;
+  background-color  : rgba(0, 0, 0, 1);
+  width: 10px;
+  height: 10px;
+}
+
+
+div#twitter {
   left              : 0px;
   bottom            : 0px;
+  position          : absolute;
+  overflow          : hidden;
+}
+
+div#ping
+{
+  left              : 230px;
+  bottom            : 140px;
   position          : absolute;
   overflow          : hidden;
   background-color  : rgba(0, 0, 0, 1);
@@ -136,7 +173,7 @@ div#ping
 
 td.ping
 {
-  font-size         : 30px;
+  font-size         : 15px;
   text-align        : left;
   border-radius     : 10px;
   padding           : 5px 10px;
@@ -237,3 +274,4 @@ div#analytics
   background-color  : rgba(0, 0, 0, 1);
   border            : solid 0px #F00;
 }
+*/
