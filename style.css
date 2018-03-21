@@ -25,6 +25,14 @@ body
   bottom: 0px;
   left : 110px;
 }
+.cinema {
+   overflow: hidden;
+  position:  absolute; 
+  bottom: 80px;
+  left : 0px;
+  width: 190px;
+  height: 100px;
+}
 .facebook {
   overflow: hidden;
   position:  absolute; 

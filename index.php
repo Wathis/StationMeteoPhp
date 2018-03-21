@@ -35,9 +35,12 @@
       <div class="spotify">
        <iframe src="https://open.spotify.com/embed?uri=spotify:album:1s93neWV0PDEcavuRus6j7" width="230" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       </div>
+      <div class="cinema">
+     <script type="text/javascript" src="http://www.france-cinema.com/webmaster/module.php"></script><div class="sortie">Sortie <a href="http://www.france-cinema.com" target="_blank">cinema</a> de la semaine</div>
+      </div>
       <div class="facebook">
-        <div class="fb-like" data-href="https://www.facebook.com/emmanuelmacronenmarche/" data-layout="box_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
-      <div id="fb-root"></div>
+          <div class="fb-like" data-href="https://www.facebook.com/emmanuelmacronenmarche/" data-layout="box_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+        <div id="fb-root"></div>
       </div>
     </div>
 
