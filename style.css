@@ -25,6 +25,12 @@ body
   bottom: 0px;
   left : 110px;
 }
+.facebook {
+  overflow: hidden;
+  position:  absolute; 
+  top: 120px;
+  left : 250px;
+}
 .top {
   overflow: hidden;
   position:  absolute; 

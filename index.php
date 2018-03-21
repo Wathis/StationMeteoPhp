@@ -35,13 +35,20 @@
       <div class="spotify">
        <iframe src="https://open.spotify.com/embed?uri=spotify:album:1s93neWV0PDEcavuRus6j7" width="230" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       </div>
-        
-     <!--  <div class="deezer">
-        <div class="deezer-widget-player" data-src="https://www.deezer.com/plugins/player?format=classic&autoplay=true&playlist=true&width=200&height=200&color=007FEB&layout=dark&size=medium&type=playlist&id=1109890291&app_id=1" data-scrolling="no" data-frameborder="0" data-allowTransparency="true" data-width="200" data-height="200"></div>
-      </div> -->
+      <div class="facebook">
+        <div class="fb-like" data-href="https://www.facebook.com/emmanuelmacronenmarche/" data-layout="box_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+      <div id="fb-root"></div>
+      </div>
     </div>
 
-    <script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.12&appId=895980953893241&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+   <!--  <script>
       (function(d, s, id) { 
       var js, djs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) return; 
@@ -49,7 +56,7 @@
       js.src = "https://e-cdns-files.dzcdn.net/js/widget/loader.js"; 
        djs.parentNode.insertBefore(js, djs);
     }(document, "script", "deezer-widget-loader"));
-    </script>
+    </script> -->
 
   </body>
 </html>
