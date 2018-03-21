@@ -12,7 +12,8 @@
     <meta http-equiv="refresh" content="3600;url=index.php">
     <script type="text/javascript" src="jquery.js"></script>
     <script type="text/javascript" src="javascript.js"></script>
-    <!-- <script type="text/javascript" src="//widget.coindesk.com/bpiticker/coindesk-widget.min.js"></script> -->
+    <script type="text/javascript" src="//widget.coindesk.com/bpiticker/coindesk-widget.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css"/>
   </head>
   <body>
@@ -21,9 +22,10 @@
       <div id="earth"><img id="img_earth" src="pict/blank.png"></div>
       <div id="moon"><img id="img_moon" src="pict/blank.png"></div>
       <div id="horloge"></div>
-      <!-- <div id="meteo"></div> -->
+    <div></div>
+      <div id="meteo"></div>
       <div id="ping"></div>
-      <!-- <div id="coindesk-widget"></div> -->
+      <div id="coindesk-widget"></div>
       <div class="deezer">
         <div class="deezer-widget-player" data-src="https://www.deezer.com/plugins/player?format=classic&autoplay=true&playlist=true&width=200&height=200&color=007FEB&layout=dark&size=medium&type=playlist&id=1109890291&app_id=1" data-scrolling="no" data-frameborder="0" data-allowTransparency="true" data-width="200" data-height="200"></div>
       </div>
@@ -38,17 +40,6 @@
        djs.parentNode.insertBefore(js, djs);
     }(document, "script", "deezer-widget-loader"));
     </script>
-
-   <!--  <script>
-      (function(b,i,t,C,O,I,N) {
-        window.addEventListener('load',function() {
-          if(b.getElementById(C))
-            return;
-          I=b.createElement(i),N=b.getElementsByTagName(i)[0];
-          I.src=t;I.id=C;N.parentNode.insertBefore(I, N);
-        },false)
-      })(document,'script','https://widgets.bitcoin.com/widget.js','btcwdgt');
-    </script> -->
 
   </body>
 </html>
