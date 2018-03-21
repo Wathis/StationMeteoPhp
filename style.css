@@ -14,8 +14,8 @@ body
 .map {
   overflow: hidden;
   position:  absolute; 
-  right: 70px;
-  top : 210px;
+  bottom: 0px;
+  left : 110px;
   height: 38px;
 }
 
@@ -54,10 +54,10 @@ div#etalon
 }
 
 #coindesk-widget {
-  top               : 250px;
-  left              : 230px;
   width             : 172px;
   height            : 67px;
+  right: 70px;
+  top : 210px;
   position          : absolute;
   overflow          : hidden;
 }
@@ -123,11 +123,17 @@ div#meteo_black
 .deezer-widget-player {
   left              : 20px;
   bottom            : 5px;
-  height            : 120px;
+  height            : 150px;
   position          : absolute;
   overflow          : hidden;
 }
 
+.spotify {
+    left              : 0px;
+  bottom            : 0px;
+  position          : absolute;
+  overflow          : hidden;
+}
 /* ts3 */
 
 div#ts3
