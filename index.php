@@ -28,7 +28,10 @@
       <div class="map">
         <div class="mapouter"><div class="gmap_canvas"><iframe width="302" height="50" id="gmap_canvas" src="https://maps.google.com/maps?q=caen&t=&z=3&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><a href="https://www.crocothemes.net"></a><style>.mapouter{overflow:hidden;height:50px;width:302px;}.gmap_canvas {background:none!important;height:50px;width:302px;}</style></div>
       </div>
-
+      <div class="top">
+        <a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=localhost/station&digit=style/plain/6/&reloads=0" alt="www.reliablecounter.com" title="www.reliablecounter.com" border="0"></a><br /><a href="http://www.reliablecounter.com/fr/" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #000000; text-decoration: none;"></a>  
+      </div>
+    
       <div class="spotify">
        <iframe src="https://open.spotify.com/embed?uri=spotify:album:1s93neWV0PDEcavuRus6j7" width="230" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       </div>

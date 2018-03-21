@@ -11,12 +11,25 @@ body
   overflow          : hidden;
 }
 
+.youtube {
+  overflow: hidden;
+  position:  absolute; 
+  bottom: 100px;
+  left : 0px;
+  height: 38px;
+}
+
 .map {
   overflow: hidden;
   position:  absolute; 
   bottom: 0px;
   left : 110px;
-  height: 38px;
+}
+.top {
+  overflow: hidden;
+  position:  absolute; 
+  bottom: 140px;
+  left : 340px;
 }
 
 div, table, tr, td, th, h1, h2, h3, a, span, p, pre, fieldset, input, textarea, form, img, select
