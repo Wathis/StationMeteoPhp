@@ -22,7 +22,6 @@
       <div id="earth"><img id="img_earth" src="pict/blank.png"></div>
       <div id="moon"><img id="img_moon" src="pict/blank.png"></div>
       <div id="horloge"></div>
-    <div></div>
       <div id="meteo"></div>
       <div id="ping"></div>
       <div id="coindesk-widget"></div>
