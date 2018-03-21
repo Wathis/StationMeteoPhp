@@ -30,7 +30,7 @@
       </div>
 
       <div class="spotify">
-        <iframe src="https://open.spotify.com/embed?uri=https://open.spotify.com/user/spotifycharts/playlist/37i9dQZEVXbIPWwFssbupI#_=_" width="220" height="90" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+       <iframe src="https://open.spotify.com/embed?uri=spotify:album:1s93neWV0PDEcavuRus6j7" width="230" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       </div>
         
      <!--  <div class="deezer">
