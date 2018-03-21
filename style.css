@@ -28,10 +28,11 @@ body
 .cinema {
    overflow: hidden;
   position:  absolute; 
-  bottom: 80px;
+  bottom: 30px;
   left : 0px;
   width: 190px;
-  height: 100px;
+  z-index: 1;
+  height: 200px;
 }
 .facebook {
   overflow: hidden;
@@ -160,6 +161,7 @@ div#meteo_black
   bottom            : 0px;
   position          : absolute;
   overflow          : hidden;
+  z-index: 2;
 }
 /* ts3 */
 
@@ -265,6 +267,7 @@ div#earth
   height            : 147px;
   left              : 0px;
   top               : 0px;
+  z-index: 10;
   position          : absolute;
   overflow          : hidden;
   background-color  : rgba(0, 0, 0, 1);
@@ -276,6 +279,7 @@ div#moon
 {
   width             : 104px;
   height            : 104px;
+  z-index: 10;
   left              : 147px;
   top               : 0px;
   position          : absolute;

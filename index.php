@@ -24,6 +24,9 @@
       <div id="horloge"></div>
       <div id="meteo"></div>
       <div id="ping"></div>
+      <div class="fondNoir">
+        
+      </div>
       <div id="coindesk-widget"></div>
       <div class="map">
         <div class="mapouter"><div class="gmap_canvas"><iframe width="302" height="50" id="gmap_canvas" src="https://maps.google.com/maps?q=caen&t=&z=3&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><a href="https://www.crocothemes.net"></a><style>.mapouter{overflow:hidden;height:50px;width:302px;}.gmap_canvas {background:none!important;height:50px;width:302px;}</style></div>
@@ -36,7 +39,7 @@
        <iframe src="https://open.spotify.com/embed?uri=spotify:album:1s93neWV0PDEcavuRus6j7" width="230" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       </div>
       <div class="cinema">
-     <script type="text/javascript" src="http://www.france-cinema.com/webmaster/module.php"></script><div class="sortie">Sortie <a href="http://www.france-cinema.com" target="_blank">cinema</a> de la semaine</div>
+       <div><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="FlashBox" width="100%" height="200" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab"><param name="movie" value="http://www.commeaucinema.com/flashboxprx.php" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="allowScriptAccess" value="always" /><param name="flashvars" value="rub=actus&ext=1" /><embed src="http://www.commeaucinema.com/flashboxprx.php" quality="high"  width="100%" height="300" name="FlashBox" align="middle" wmode="transparent"  play="true"   loop="false"  quality="high"  allowScriptAccess="always"  flashvars="rub=actus&ext=1"   type="application/x-shockwave-flash"  pluginspage="http://www.adobe.com/go/getflashplayer"></embed><a href="http://www.commeaucinema.com" title="Toute l'actu Cinema et DVD est sur commeaucinema.com">Cinema</a></object><br />&nbsp;&nbsp;<a href="http://www.commeaucinema.com" style="font-size:9px;font-family:Arial">Comme Au Cinema</a></div>
       </div>
       <div class="facebook">
           <div class="fb-like" data-href="https://www.facebook.com/emmanuelmacronenmarche/" data-layout="box_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
