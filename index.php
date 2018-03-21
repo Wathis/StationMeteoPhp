@@ -38,9 +38,6 @@
       <div class="spotify">
        <iframe src="https://open.spotify.com/embed?uri=spotify:album:1s93neWV0PDEcavuRus6j7" width="230" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       </div>
-      <div class="cinema">
-       <div><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="FlashBox" width="100%" height="200" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab"><param name="movie" value="http://www.commeaucinema.com/flashboxprx.php" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="allowScriptAccess" value="always" /><param name="flashvars" value="rub=actus&ext=1" /><embed src="http://www.commeaucinema.com/flashboxprx.php" quality="high"  width="100%" height="300" name="FlashBox" align="middle" wmode="transparent"  play="true"   loop="false"  quality="high"  allowScriptAccess="always"  flashvars="rub=actus&ext=1"   type="application/x-shockwave-flash"  pluginspage="http://www.adobe.com/go/getflashplayer"></embed><a href="http://www.commeaucinema.com" title="Toute l'actu Cinema et DVD est sur commeaucinema.com">Cinema</a></object><br />&nbsp;&nbsp;<a href="http://www.commeaucinema.com" style="font-size:9px;font-family:Arial">Comme Au Cinema</a></div>
-      </div>
       <div class="facebook">
           <div class="fb-like" data-href="https://www.facebook.com/emmanuelmacronenmarche/" data-layout="box_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
         <div id="fb-root"></div>
