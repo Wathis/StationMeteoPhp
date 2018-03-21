@@ -25,6 +25,10 @@
       <div id="meteo"></div>
       <div id="ping"></div>
       <div id="coindesk-widget"></div>
+      <div class="map">
+        <div class="mapouter"><div class="gmap_canvas"><iframe width="302" height="50" id="gmap_canvas" src="https://maps.google.com/maps?q=caen&t=&z=3&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><a href="https://www.crocothemes.net"></a><style>.mapouter{overflow:hidden;height:50px;width:302px;}.gmap_canvas {background:none!important;height:50px;width:302px;}</style></div>
+      </div>
+        
       <div class="deezer">
         <div class="deezer-widget-player" data-src="https://www.deezer.com/plugins/player?format=classic&autoplay=true&playlist=true&width=200&height=200&color=007FEB&layout=dark&size=medium&type=playlist&id=1109890291&app_id=1" data-scrolling="no" data-frameborder="0" data-allowTransparency="true" data-width="200" data-height="200"></div>
       </div>

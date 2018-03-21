@@ -11,6 +11,14 @@ body
   overflow          : hidden;
 }
 
+.map {
+  overflow: hidden;
+  position:  absolute; 
+  right: 70px;
+  top : 210px;
+  height: 38px;
+}
+
 div, table, tr, td, th, h1, h2, h3, a, span, p, pre, fieldset, input, textarea, form, img, select
 {
   font-family       : Verdana, "Courier New", "Lucida Console";
@@ -46,10 +54,10 @@ div#etalon
 }
 
 #coindesk-widget {
-  top               : 200px;
+  top               : 250px;
   left              : 230px;
   width             : 172px;
-  height            : 108px;
+  height            : 67px;
   position          : absolute;
   overflow          : hidden;
 }
@@ -90,7 +98,7 @@ span.horloge_grey
 div#meteo
 {
   left              : 409px;
-  top               : 155px;
+  top               : 170px;
   position          : absolute;
   background-color: red;
   overflow          : hidden;
@@ -114,8 +122,8 @@ div#meteo_black
 
 .deezer-widget-player {
   left              : 20px;
-  bottom            : 12px;
-  height            : 150px;
+  bottom            : 5px;
+  height            : 120px;
   position          : absolute;
   overflow          : hidden;
 }
@@ -165,7 +173,7 @@ div#twitter {
 div#ping
 {
   left              : 230px;
-  bottom            : 140px;
+  bottom            : 100px;
   position          : absolute;
   overflow          : hidden;
   background-color  : rgba(0, 0, 0, 1);
